@@ -1,10 +1,10 @@
 import React, { FC } from 'react'
 
-const UserDetails = () => {
-
-    return(
-        <div> 
-            <span> details</span>   
+const UserDetails: FC = () => {
+    debugger
+    return (
+        <div>
+            <span> details</span>
         </div>
     )
 }

@@ -5,7 +5,7 @@ import { UsersList } from './user/list'
 
 function App() {
   return (
-   <UsersList/>
+    <UsersList/>
   );
 }
 
